@@ -1,0 +1,7 @@
+Phân công nhiệm vụ nhóm: 
+
+Nguyễn thị tươi: Content Boxes,Navigation Bar 
+name = Unknown = Nguyễn thị tươi 
+
+Nguyễn ngọc yến nhi: Registration Form
+Nguyễn văn duy : Dropdown Menu,Image Slider
